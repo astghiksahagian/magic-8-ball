@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 350;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.menu-container {
+    padding: 15px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    border: 2px solid black;
+    width: 1260px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.eight-ball-gif-container {
+    display: flex;
+    justify-content: center;
+}
